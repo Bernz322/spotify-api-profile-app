@@ -1,0 +1,12 @@
+// Caling convention instead of calling these styles with diffrent paths.
+export { default as GlobalStyles } from "./GlobalStyles"
+export { default as StyledHeader } from "./StyledHeader"
+export { default as StyledCards } from "./StyledCards"
+export { default as StyledTracksCard } from "./StyledTracksCard"
+export { default as StyledTopArtistSection } from "./StyledTopArtistSection"
+export { default as StyledTopTracksSection } from "./StyledTopTracksSection"
+export { default as StyledPlaylistsSection } from "./StyledPlaylistsSection"
+export { default as StyledArtist } from "./StyledArtist"
+export { default as StyledTrack } from "./StyledTrack"
+export { default as StyledNavbar } from "./StyledNavbar"
+export { default as StyledMain } from "./StyledMain"
