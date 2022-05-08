@@ -42,7 +42,7 @@ export default function Main() {
                         <p className='note'>Note: On May 27th, 2021 Spotify for Developers announced that all new apps will be put under <a className='spotify__redirect' href="https://developer.spotify.com/community/news/2021/05/27/improving-the-developer-and-user-experience-for-third-party-apps/" target="_blank" rel="noreferrer">Development Mode</a>. This means that only a limited number (25) of people can access this Web App and has to be added first on my Developer Dashboard. You can still use this app without being added to my Dashboard but has several limited features. Your profile will not be visible (Error 403 - Forbidden) and each track details will not be available.</p>
                         <p className='note'>If you are interested on using this app with its full features, go to my <a className='github__redirect' href="https://github.com/Bernz322" target="_blank" rel="noreferrer">Github</a> and contact me on any of my listed socials and I'll add you on my dashboard.</p>
                         <footer>
-                            <p>{`© ${year} Jeffrey Bernadas`}</p>
+                            <p>{`© Made with ❤️ by Jeffrey Bernadas, ${year}`}</p>
                         </footer>
                     </div>
                 </div>

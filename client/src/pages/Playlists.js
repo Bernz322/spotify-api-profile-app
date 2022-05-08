@@ -46,7 +46,7 @@ export default function Playlists() {
             ...playlistsData.items
         ]))
         catchErrors(fetchMoreData())
-    }, [playlistsData, playlists])
+    }, [playlistsData])
 
     return (
         <>
