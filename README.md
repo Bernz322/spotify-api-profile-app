@@ -1,5 +1,4 @@
 <h1 align="center"><a href='https://spotify-api-profile-app.herokuapp.com/' target='_blank' rel='noreferrer'>Spotify API Web App</a></h1>
-<p align="center">
 
 <p align="justify">
  This project is created using the <a href="https://developer.spotify.com/" target="_blank" rel='noreferrer'>Spotify API</a> and is based on Britanny Chiang's <a href="https://www.newline.co/courses/build-a-spotify-connected-app" target="_blank" rel='noreferrer'>newline course</a> with additional features. Click<a href="https://www.jeffreybernadas.tech/spotify" target="_blank" rel='noreferrer'> here </a>to learn more.</p>
